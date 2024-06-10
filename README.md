@@ -21,3 +21,6 @@ FoodBot is a simple chatbot designed for a food company. It leverages NLP (Natur
 - codebasics for their amazing tutorial on the project.
 - The developers of FastAPI for their amazing framework.
 - The NLP and Dataflow communities for their contributions and resources.
+
+  ## Requirements:
+  - ngrok for port conversion from http to https.
